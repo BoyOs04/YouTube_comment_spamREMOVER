@@ -52,7 +52,8 @@ python ytspam.py
 7. Script akan mulai memproses dan menghapus komentar spam
 
 > Semua komentar yang berhasil dihapus akan dicatat di file `deleted_comments.txt`
-
+```bash
+```
 ---
 
 ## Membuat Google Cloud Project Sendiri
